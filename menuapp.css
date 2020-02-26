@@ -1,5 +1,27 @@
 body {
+<<<<<<< HEAD
  background-color: #FFFACD;
    font-family: cursive;
     font-size: 3em;
+=======
+ background-color: #FFFACD
+ font-family: Comic Sans MS;
+<<<<<<< HEAD
+.crumb a::after {
+    display: inline-block;
+    color: #B0E0E6;
+    content: '>';
+    font-size: 30pt;
+    font-weight: bold;
+    padding: 0 1px;
+}
+div {
+  padding-top: 5px;
+  padding-right: 10px;
+  padding-bottom: 35px;
+  padding-left: 60px;
+  font-size: 14pt;
+=======
+>>>>>>> master/master
+>>>>>>> origin/master
 }
