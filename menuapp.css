@@ -1,12 +1,8 @@
 body {
-<<<<<<< HEAD
+
  background-color: #FFFACD;
    font-family: cursive;
-    font-size: 3em;
-=======
- background-color: #FFFACD
- font-family: Comic Sans MS;
-<<<<<<< HEAD
+    font-size: 3em;}
 .crumb a::after {
     display: inline-block;
     color: #B0E0E6;
