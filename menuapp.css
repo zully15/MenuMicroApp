@@ -22,16 +22,16 @@ div {
 }
 
 .block{
-  background-color: #FFACD;
+  background-color: #FFA07A;
   color: #FFFFFF;
   float: left;
-  padding: 100px;
-  border-radius: 80px;
+  padding: 90px;
+  border-radius: 50px;
   font-size: 30px;
 
 }
 
 .center_text {
   text-align: left;
-  border: 2px solid teal;
+  border: 2px solid black;
 }
