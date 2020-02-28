@@ -1,7 +1,7 @@
 body {
 
  background-color: #FFFACD;
-   font-family: cursive;
+   font-family: system-ui;
     color:darksalmon;
     font-size: 2em;}
 .crumb a::after {
@@ -14,19 +14,19 @@ body {
 }
 div {
   padding-top: 5px;
-  padding-right: 10px;
-  padding-bottom: 35px;
+  padding-right: 30px;
+  padding-bottom: 5px;
   padding-left: 60px;
-  font-size: 14pt;
+  font-size: 60pt;
 
 }
 
 .block{
-  background-color: #FFA07A;
-  color: #000000;
+  background-color: #FFFFFF;
+  color: #ed6b94;
   float: left;
-  padding: 90px;
-  border-radius: 50px;
+  padding: 85px;
+  border-radius: 90px;
   font-size: 30px;
 
 }
