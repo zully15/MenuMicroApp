@@ -24,7 +24,7 @@ div {
 .block{
   background-color: #FFACD;
   color: #FFFFFF;
-  float: right;
+  float: left;
   padding: 100px;
   border-radius: 80px;
   font-size: 30px;
