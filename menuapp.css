@@ -30,3 +30,8 @@ div {
   font-size: 30px;
 
 }
+
+.center_text {
+  text-align: left;
+  border: 2px solid teal;
+}
