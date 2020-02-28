@@ -6,7 +6,7 @@ body {
     font-size: 2em;}
 .crumb a::after {
     display: inline-block;
-    color: #B0E0E6;
+    color: #ed6b94;
     content: '>';
     font-size: 15pt;
     font-weight: bold;
