@@ -1,5 +1,5 @@
-var cimg =  document.createElement("casImg");
-var fimg = document.createElement("fanImg");
+var cimg =  document.createElement("IMG");
+var fimg = document.createElement("IMG");
 
 let button = document.getElementById("my_button")
 button.addEventlistener("click" , () =>){
