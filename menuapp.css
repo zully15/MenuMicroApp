@@ -23,7 +23,7 @@ div {
 
 .block{
   background-color: #FFA07A;
-  color: #FFFFFF;
+  color: #000000;
   float: left;
   padding: 90px;
   border-radius: 50px;
@@ -33,5 +33,5 @@ div {
 
 .center_text {
   text-align: left;
-  border: 2px solid black;
+  border: 5px solid black;
 }
