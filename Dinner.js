@@ -17,7 +17,7 @@ var imgs = ["https://pngimg.com/uploads/steak/steak_PNG66.png", "https://ya-webd
 img.setAttribute("src", imgs[random])
 document.body.appendChild(img)
 
-<<<<<<< HEAD
+
 
 
 
@@ -33,4 +33,3 @@ document.body.appendChild(img)
 
                         })
 
->>>>>>> master/master
